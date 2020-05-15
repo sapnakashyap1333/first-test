@@ -9,7 +9,12 @@ this is my new project.
             <input type="text" id="username" name="username"><br>
             <label for="password">Password:</label><br>
             <input type="text" id="password" name="passwoed"><br><br>
-            <input type="submit" value="Sumbit">
+            <input type="submit" value="Sumbit"><br><br>
+  <form action="/action_page.php">
+            <label for="favcolor">Select color:</label>
+            <input type="color" id="favcolor" name="favcolor" value="#ff0000">
+            <input type="submit" value="Submit">
   </from>
   </body>
   </html>
+update 
